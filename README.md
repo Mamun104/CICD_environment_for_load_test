@@ -9,11 +9,10 @@
 
 ## Prerequisites
 
-- You must have installed Postman to your system
-- jmeter
+- You must have installed Postman on your system
+- JMeter
 - Visual Studio Code
 - Jenkins
-- java
 
 ## API Documents
 
