@@ -5,12 +5,12 @@
 - Visual Studio Code
 - Jenkins
 - Postman
-- Jmeter
+- Gatling
 
 ## Prerequisites
 
 - You must have installed Postman on your system
-- JMeter
+- Gatling
 - Visual Studio Code
 - Jenkins
 
