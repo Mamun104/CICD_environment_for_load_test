@@ -1,6 +1,6 @@
 # Load Test in a CICD Environment
 
-## ## Technology and Tool Used
+## Technology and Tool Used
 
 - Visual Studio Code
 - Jenkins
